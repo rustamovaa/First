@@ -1,4 +1,9 @@
 package org.example.modul;
 
-public class BotState {
+public enum BotState {
+    SALADS,
+    DRINKS,
+    FAST_FOOD,
+    START,
+
 }
